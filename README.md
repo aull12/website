@@ -1,2 +1,2 @@
-# website
-web
+# SisparLambung
+Sistem Pakar Diagnosa Penyakit Lambung
